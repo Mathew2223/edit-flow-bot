@@ -1,0 +1,10 @@
+# Никогда не заливай это в репозиторий:
+.env
+__pycache__/
+*.pyc
+*.log
+submissions.json
+submissions.tmp
+venv/
+.env.local
+.DS_Store
